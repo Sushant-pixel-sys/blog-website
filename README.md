@@ -1,4 +1,3 @@
-# blog-website
 # Simple Blog
 
 Two-page static blog (index + about). Built with HTML/CSS and containerized using nginx.
